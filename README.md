@@ -7,7 +7,7 @@
   <em><b>Sou estudante de cibersegurança</b></em> e <em><b>pesquisador</b></em>. Sempre <em><b>aprendendo</b></em>, sempre <em><b>hackeando</b></em> (eticamente, claro 👽).
     <p></p>  
   <p>
-    🛰️ Aprendendo a arte da exploração de vulnerabilidades & iniciante em malware analysis / incident response.<br>
+    🛰️ Aprendendo a arte da exploração de vulnerabilidades & incidente response / malware analysis.<br>
     🔗 Contato <a href="https://www.linkedin.com/in/htelesofc/">LinkedIn</a>.
   </p>
 </div>
@@ -22,4 +22,5 @@
 
 <div align="center">
 </div>
+
 
