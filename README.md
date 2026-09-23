@@ -8,7 +8,7 @@
     <p></p>  
   <p>
     🛰️ Aprendendo a arte da exploração de vulnerabilidades & incidente response / malware analysis.<br>
-    🔗 Contato <a href="https://www.linkedin.com/in/htelesofc/">LinkedIn</a>.
+    🔗 Contato <a href="https://www.linkedin.com/in/t1lt45/">LinkedIn</a>.
   </p>
 </div>
 <div align="left"> 
